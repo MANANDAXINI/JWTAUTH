@@ -1,0 +1,19 @@
+Authentication:
+user ko profile dene se pehle chk karna padta hai ki user hai kaun
+
+
+Authorization:-
+authorized to perform some tasks whcih are only allowed to be executed by admin
+
+
+theory points:-
+server har bhar bhul jata hai ki app kaun ho kyuki 
+server bhul jata hai ap kaun ho to har a k liye 
+puchega ki app kaun ho
+
+this is the problem that sevre asks for authentication for each and every task i need to perform
+
+considering this as instagram asking for login for each task like saving ree,
+liking reel etc 
+
+now comes cookies and sesssion as solution

@@ -1,0 +1,5 @@
+mongoose 
+schema
+useraccount
+pass=hash
+hash=jwt=cookie=frontend
